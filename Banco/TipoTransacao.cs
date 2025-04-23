@@ -1,6 +1,8 @@
-﻿namespace Banco;
-
-public class TipoTransacao
+﻿namespace Banco
 {
-    
+    public enum TipoTransacao
+    {
+        Credito,
+        Debito
+    }
 }
