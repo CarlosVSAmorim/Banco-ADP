@@ -13,4 +13,4 @@ Aplicar os principais conceitos de POO em um sistema realista de conta bancária
 - Emissão de extrato com registro de movimentações
 
 
-![Descrição da imagem](Imagem projeto.png)
+![Descrição da imagem](https://i.imgur.com/JENzn0j.png)
