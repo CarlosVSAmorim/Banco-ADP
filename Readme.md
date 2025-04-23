@@ -1,6 +1,6 @@
 ﻿# BancoDigital – Sistema de Conta Corrente (C# POO)
 
-Este projeto é uma simulação de um sistema de conta corrente bancária, desenvolvido como atividade avaliativa da disciplina Desenvolvimento de Sistemas Orientados a Objetos. O sistema foi implementado em C#, utilizando os princípios da Programação Orientada a Objetos (POO).
+Este projeto é uma simulação de um sistema de conta corrente bancária O sistema foi implementado em C#, utilizando os princípios da Programação Orientada a Objetos (POO).
 
 ## Objetivo
 
